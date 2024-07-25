@@ -7,7 +7,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/ahmaadel/Zswisstronik/edit/main/swisstronik/zhang.sh/README.md
+    git clone https://github.com/ahmaadel/Zswisstronik/edit/main/swisstronik/zhang.sh
 
 2. **Run the Setup Script:**
 
